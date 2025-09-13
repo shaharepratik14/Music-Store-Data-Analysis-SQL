@@ -1,6 +1,7 @@
 # Music-Store-Data-Analysis-SQL
 
 **Short Description:**
+
 Designed and executed SQL queries to analyze a digital music store database (customer, invoice, artist, album, and track tables) to uncover insights about sales, customers, and music trends.
 
 **Key Contributions / Highlights:**
@@ -19,3 +20,4 @@ Demonstrated data storytelling with SQL by translating business questions into a
 
 **Screenshot of Database Schema:**
 
+(https://github.com/shaharepratik14/Music-Store-Data-Analysis-SQL/blob/main/Screenshot%20of%20Database%20Schema.png)
