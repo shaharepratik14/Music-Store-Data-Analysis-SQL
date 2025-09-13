@@ -20,4 +20,4 @@ Demonstrated data storytelling with SQL by translating business questions into a
 
 **Screenshot of Database Schema:**
 
-!(https://github.com/shaharepratik14/Music-Store-Data-Analysis-SQL/blob/main/Screenshot%20of%20Database%20Schema.png)
+![Preview](https://github.com/shaharepratik14/Music-Store-Data-Analysis-SQL/blob/main/Screenshot%20of%20Database%20Schema.png)
